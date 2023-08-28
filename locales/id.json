@@ -1,0 +1,27 @@
+{
+    "jobcenter_blipname" : "Job Center",
+    "jobcenter_labeltarget" : "Mulai/Berhenti Bekerja",
+    "jobcenter_mulaibekerja" : "Kamu sudah bisa mulai bekerja",
+    "jobcenter_berhentikerja" : "Kamu berhenti bekerja",
+    
+    "penambang_blipname_tambang_ambil" : "Tambang Batu",
+    "penambang_blipname_tambang_cuci" : "Pencucian Batu",
+    "penambang_blipname_tambang_lebur" : "Peleburan Batu",
+    "penambang_drawtext_tambang_ambil" : "Hancurkan Batu",
+    "penambang_drawtext_tambang_cuci" : "Cuci Batu",
+    "penambang_drawtext_tambang_lebur" : "Lebur Batu",
+    "penambang_progressbar_cucibatu" : "Mencuci Batu",
+    "penambang_progressbar_leburbatu" : "Melebur Batu",
+
+    "pekerjakayu_blipname_ambilkayu" : "Pengambilan Kayu",
+    "pekerjakayu_blipname_proseskayu" : "Pemerosesan Kayu",
+    "pekerjakayu_ambil_butuhkapak" : "Kamu harus memakai kapak !",
+    "pekerjakayu_progress_ambil" : "Memotong Kayu",
+    "pekerjakayu_progress_proses" : "Memproses Kayu",
+    "pekerjakayu_drawtext_ambil" : "Potong Kayu",
+    "pekerjakayu_drawtext_proses" : "Proses Kayu",
+
+
+    "jobs_belum_ambil_kerja" : "Status kamu bukan lah seorang pekerja, pergi ke job center untuk meminta pekerjaan!",
+    "jobs_need_item" : "Kamu membutuhkan x%s %s"
+}
